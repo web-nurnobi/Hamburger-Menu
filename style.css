@@ -34,11 +34,3 @@ body {
         .menu-line.active .menu-single-line:nth-child(3) {
             transform: rotate(-45deg) translate(8px, -8px);
         }
-
-
-
-        .elementor-widget-off-canvas,
-        #off-canvas-20e87f3 {
-            --e-off-canvas-animation-duration: 0.8s;
-            --e-off-canvas-animation-duration-minimum: max(0.001s, var(--e-off-canvas-animation-duration));
-        }
